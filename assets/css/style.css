@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50px;
   right: 15px;
   bottom: 15px;
-  background: #149ddd;
+  background: #404547;
   color: #fff;
   transition: display 0.5s ease-in-out;
   z-index: 99999;
@@ -69,7 +69,8 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #040b14;
+  /* background: #040b14; */
+  background: #411f1f;
   overflow-y: auto;
 }
 
